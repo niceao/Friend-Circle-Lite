@@ -12,7 +12,7 @@ spider_settings:
   article_count: 5
   merge_result:
     enable: true
-    merge_json_url: "https://fc.200036.xyz"
+    merge_json_url: "https://friend.biuxin.com"
 
 # 邮箱推送功能配置，暂未实现，等待后续开发
 # 解释：每天为指定邮箱推送所有友链文章的更新，仅能指定一个
@@ -38,7 +38,7 @@ rss_subscribe:
   enable: true
   github_username: niceao
   github_repo: Friend-Circle-Lite
-  your_blog_url: https://solitude.200038.xyz/
+  your_blog_url: https://blog.biuxin.com
   email_template: "./rss_subscribe/email_template.html"
   website_info:
     title: "东方月初"
